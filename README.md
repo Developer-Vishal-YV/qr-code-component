@@ -1,6 +1,20 @@
 # QrCodeComponent
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.1.4.
+An Angular project built using interpolation, property binding, basic routing, and Tailwind CSS for styling.
+
+## Technologies
+
+- Angular
+- TypeScript
+- Tailwind CSS
+
+## Features
+
+- Interpolation
+- Property binding
+- Basic routing
+- Responsive styling with Tailwind CSS
 
 ## Development server
 
